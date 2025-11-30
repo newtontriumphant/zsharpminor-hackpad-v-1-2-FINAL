@@ -5,7 +5,7 @@
 	(uuid "64efc079-13c1-405f-8e4e-7d1237ab7ef2")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Device:RotaryEncoder_Switch_MP"
+		(symbol "Device:RotaryEncoder_Switch"
 			(pin_names
 				(offset 0.254)
 				(hide yes)
@@ -14,15 +14,15 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "SW"
-				(at 0 8.89 0)
+				(at 0 6.604 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "RotaryEncoder_Switch_MP"
-				(at 0 6.35 0)
+			(property "Value" "RotaryEncoder_Switch"
+				(at 0 -6.604 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -39,7 +39,7 @@
 				)
 			)
 			(property "Datasheet" "~"
-				(at 0 -12.7 0)
+				(at 0 6.604 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -47,8 +47,8 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch and MP Pin"
-				(at 0 -15.24 0)
+			(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -74,7 +74,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "RotaryEncoder_Switch_MP_0_1"
+			(symbol "RotaryEncoder_Switch_0_1"
 				(rectangle
 					(start -5.08 5.08)
 					(end 5.08 -5.08)
@@ -299,7 +299,7 @@
 					)
 				)
 			)
-			(symbol "RotaryEncoder_Switch_MP_1_1"
+			(symbol "RotaryEncoder_Switch_1_1"
 				(pin passive line
 					(at -7.62 2.54 0)
 					(length 2.54)
@@ -347,24 +347,6 @@
 						)
 					)
 					(number "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -7.62 90)
-					(length 2.54)
-					(name "MP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "MP"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1904,16 +1886,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 38.1) (xy 92.71 41.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b6c861c-1098-447e-a460-22a23b77bd2f")
-	)
-	(wire
-		(pts
 			(xy 144.78 91.44) (xy 144.78 100.33)
 		)
 		(stroke
@@ -1994,7 +1966,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 44.45) (xy 233.68 118.11)
+			(xy 233.68 45.72) (xy 233.68 118.11)
 		)
 		(stroke
 			(width 0)
@@ -2154,7 +2126,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 44.45) (xy 233.68 44.45)
+			(xy 85.09 45.72) (xy 233.68 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2194,7 +2166,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 33.02) (xy 85.09 44.45)
+			(xy 85.09 33.02) (xy 85.09 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2607,7 +2579,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:RotaryEncoder_Switch_MP")
+		(lib_id "Device:RotaryEncoder_Switch")
 		(at 92.71 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2616,7 +2588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59e1c1dc-e510-4d43-9d96-c3385e859555")
-		(property "Reference" "SW10"
+		(property "Reference" "SW0"
 			(at 92.71 20.32 0)
 			(effects
 				(font
@@ -2624,7 +2596,7 @@
 				)
 			)
 		)
-		(property "Value" "RotaryEncoder_Switch_MP"
+		(property "Value" "RotaryEncoder_Switch"
 			(at 92.71 22.86 0)
 			(effects
 				(font
@@ -2642,7 +2614,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 92.71 43.18 0)
+			(at 92.71 23.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2650,8 +2622,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch and MP Pin"
-			(at 92.71 45.72 0)
+		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 92.71 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2668,9 +2640,6 @@
 		(pin "B"
 			(uuid "f50506eb-b959-4257-b147-f7ff2d6022c2")
 		)
-		(pin "MP"
-			(uuid "326db378-0da3-4365-8409-847b0cf938ab")
-		)
 		(pin "S1"
 			(uuid "37dc14c1-593c-46d5-8e5a-8f606c3c9e56")
 		)
@@ -2680,7 +2649,7 @@
 		(instances
 			(project ""
 				(path "/64efc079-13c1-405f-8e4e-7d1237ab7ef2"
-					(reference "SW10")
+					(reference "SW0")
 					(unit 1)
 				)
 			)
