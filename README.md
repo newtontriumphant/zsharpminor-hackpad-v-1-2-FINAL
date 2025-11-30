@@ -6,6 +6,7 @@ Fun Fact: This was my first time creating a serious project in KiCad! I think it
 
 # BOM:
 
+* 1x PCB
 * 1x Seeed XIAO RP2040 Through-Hole
 * 6x Cherry MX-style Switches
 * 6x Cherry MX-style Keycaps (Blank)
@@ -14,7 +15,7 @@ Fun Fact: This was my first time creating a serious project in KiCad! I think it
 * 4x M3x16mm screws
 * 4x M3x5mx4mm heatset inserts
 
-Case to be entirely 3d-printed, iterations may occur.
+* 1x Case to be entirely 3d-printed (self-provided), iterations may occur.
 
 # Finalized HackPad Mockup:
 
@@ -26,8 +27,12 @@ Case to be entirely 3d-printed, iterations may occur.
 
 # Schematic:
 
-<img width="1262" height="771" alt="Screenshot 2025-11-29 at 9 47 16 PM" src="https://github.com/user-attachments/assets/affb5460-1620-4533-b5d9-52f51b667267" />
+<img width="1236" height="755" alt="Screenshot 2025-11-30 at 9 40 40 AM" src="https://github.com/user-attachments/assets/c95a4f8c-e5d8-4be8-b6bd-ad03a7e91973" />
 
 # PCB:
 
-<img width="1172" height="530" alt="Screenshot 2025-11-29 at 9 47 42 PM" src="https://github.com/user-attachments/assets/56d9634c-809e-4052-820b-4aa2fa16f00a" />
+<img width="1606" height="769" alt="Screenshot 2025-11-30 at 9 39 27 AM" src="https://github.com/user-attachments/assets/4078c8ee-0785-4bdc-8914-e030446bd52d" />
+
+# PCB 3d Render:
+
+<img width="1021" height="526" alt="Screenshot 2025-11-30 at 9 40 22 AM" src="https://github.com/user-attachments/assets/c61bc21d-f1cb-4bff-b9b2-6ad227640816" />
