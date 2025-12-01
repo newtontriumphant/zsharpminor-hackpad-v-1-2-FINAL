@@ -17,6 +17,24 @@ Fun Fact: This was my first time creating a serious project in KiCad! I think it
 
 * 1x Case to be entirely 3d-printed (self-provided), iterations may occur.
 
+# UPDATE: CAD MODEL WITH 3D MODELED PCB AND COMPONENTS!
+
+## No. 1: PCB in case without keycaps:
+
+<img width="354" height="331" alt="Screenshot 2025-12-01 at 1 23 44 PM" src="https://github.com/user-attachments/assets/429de604-f863-45b4-96a9-66f841012047" />
+
+## No. 2: PCB in case with keycaps:
+
+<img width="435" height="184" alt="Screenshot 2025-12-01 at 1 28 40 PM" src="https://github.com/user-attachments/assets/0f812ce6-a634-4de0-82a5-429205ae3cc8" />
+
+## No. 3: FULLY ASSEMBLED case with PCB in a mock-up of red PLA.
+
+<img width="245" height="139" alt="Screenshot 2025-12-01 at 1 30 48 PM" src="https://github.com/user-attachments/assets/031ba29b-1791-4d63-9a36-48deccc58598" />
+
+<img width="335" height="130" alt="Screenshot 2025-12-01 at 1 31 01 PM" src="https://github.com/user-attachments/assets/1b0c407e-377b-4acb-b43e-b412e5a38f1b" />
+
+(Ignore the silly keycap profile, also I couldn't find an exact texture for the rotary encoder knob I have so I hope it doesn't get denied for that!)
+
 # Finalized HackPad Mockup:
 
 <img width="434" height="203" alt="Screenshot 2025-11-29 at 9 46 07 PM" src="https://github.com/user-attachments/assets/35b35e23-c747-4427-92c9-95ced5627959" />
