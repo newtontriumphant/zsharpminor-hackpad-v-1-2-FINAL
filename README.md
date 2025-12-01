@@ -29,9 +29,9 @@ Fun Fact: This was my first time creating a serious project in KiCad! I think it
 
 ## No. 3: FULLY ASSEMBLED case with PCB in a mock-up of red PLA.
 
-<img width="245" height="139" alt="Screenshot 2025-12-01 at 1 30 48 PM" src="https://github.com/user-attachments/assets/031ba29b-1791-4d63-9a36-48deccc58598" />
+<img width="507" height="299" alt="Screenshot 2025-12-01 at 1 47 57 PM" src="https://github.com/user-attachments/assets/e7ecdf2c-3dee-48f7-b2c9-c430035fbdf8" />
 
-<img width="335" height="130" alt="Screenshot 2025-12-01 at 1 31 01 PM" src="https://github.com/user-attachments/assets/1b0c407e-377b-4acb-b43e-b412e5a38f1b" />
+<img width="450" height="371" alt="Screenshot 2025-12-01 at 1 48 20 PM" src="https://github.com/user-attachments/assets/4e04071b-fb03-455a-82b6-505b66737eb1" />
 
 (Ignore the silly keycap profile, also I couldn't find an exact texture for the rotary encoder knob I have so I hope it doesn't get denied for that!)
 
