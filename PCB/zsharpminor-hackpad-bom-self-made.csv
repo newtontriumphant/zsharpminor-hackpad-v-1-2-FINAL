@@ -1,0 +1,20 @@
+KIT Items,Description,Quantity,Unit Price ($),Total Price ($),URL,NET PRICE,Running Total
+,,,,,,,
+SEEED Studios XIAO RP2040 DIP,Microcontroller,1,3.99,3.99,https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html,4.28,4.28
+Cherry MX Switches (Gateron Yellow),Switches,6,0.125,1.25 (MOQ 10),https://kbdfans.com/products/gateron-milky-housing-yellow-linear-switches,1.34,5.62
+Blank Cherry MX-Style Keycaps,Keycaps,6,0.009,0.99 (MOQ 10),https://www.aliexpress.us/item/3256808411020933.html,1.06,6.68
+Alps EC-11 Rotary Encoder,Knob,1,0.99,0.99,https://www.aliexpress.us/item/3256806414004024.html,1.06,7.74
+SK6812 MINI-E LED,RGB LED,1,0.009,0.99 (MOQ 100),https://www.aliexpress.us/item/3256807677321116.html,1.06,8.8
+M3x16mm Screws,Case Screws,4,0.4375,1.75,https://www.homedepot.com/p/Everbilt-M3-0-5-x-16mm-Zinc-Pan-Head-Phillips-Drive-Machine-Screw-4-Pieces-837781/321071713,1.88,10.68
+M3x5x4mm Heat-Set Inserts,Case Screw Inserts,4,0.009,0.99 (MOQ 100),https://www.aliexpress.us/item/2255800046543591.html,1.06,11.74
+,,,,,,,
+FINAL PRICE FOR KIT ITEMS:,$11.74,(Contained in provided kit),,,,,
+,,,,,,,
+CASE Items,Description,Quantity,Unit Price ($),Total Price ($),URL,NET PRICE,Running Total
+,,,,,,,
+3D-printed case (SELF-PROVIDED),Approx. 156g of PLA,1,0,0,N/A (I am not looking for filament reimbursement at this time).,0,0
+,,,,,,,
+JLCPCB,PCB for Hackpad,1,0.8,4 (MOQ 5),https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&spm=Jlcpcb.Homepage.1010,4.3,4.3
+JLCPCB Shipping,Shipping for PCB,1,4,4,"N/A - Global Standard Direct Line, Cheapest Option.",4.3,8.6
+,,,,,,,
+FINAL PRICE FOR GRANT:,$8.60,,,,,,
