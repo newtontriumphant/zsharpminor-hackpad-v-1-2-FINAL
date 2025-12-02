@@ -4,6 +4,8 @@ HackPad built by zsharpminor for HackClub's Blueprint Program. Fully Modular, wi
 
 Fun Fact: This was my first time creating a serious project in KiCad! I think it turned out quite well, took some time but it was worth it! Hopefully it works :)
 
+**UPDATE**: Gerber file added to PCB folder, BOM and CPL files added to subfolder as well (but they won't be needed as I will not be using PCBA). Thanks for your time! :)
+
 # BOM:
 
 * 1x PCB
