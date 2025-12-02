@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"XIAO-RP2040-DIP";1;"XIAO-RP2040-DIP";;;
+2;"SW6,SW4,SW7,SW9,SW8,SW5";"SW_Cherry_MX_1.00u_PCB";6;"SW_Push";;;
+3;"D1";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";1;"SK6812MINI";;;
+4;"SW0";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";1;"RotaryEncoder_Switch";;;
